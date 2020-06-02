@@ -1,4 +1,4 @@
-package Leetcode;
+package Leetcode.day2;
 
 class ColorClassify75 {
     //由选择排序修改为三指针方法, 时间复杂度O(n^2) -> O(n), 空间复杂度O(n)
